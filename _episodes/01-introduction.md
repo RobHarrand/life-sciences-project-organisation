@@ -1,10 +1,11 @@
 ---
-title: "Motivating Example"
+title: "Introduction"
 teaching: 15
 exercises: 5
 questions:
 - "How do most people organise their data and associated files?"
 - "What are some common issues with not having a clear plan for the naming and storage of files?"
+- "Why is this important? (reproducible research)
 objectives:
 - "Understand that it all starts here"
 keypoints:
@@ -55,9 +56,21 @@ along with a growing body of literature around the details of such errors (e.g. 
 However, the good news is that huge strides can be taken away from such potential errors by a handful of basic data management and spreadsheet principles.
 
 
-### Exercise
+### Reproducible Research
 
-Think about issues you've encounted over the years relating to data. What were they? Issues around finding data? Knowing what the data is when you do find it? Knowing what's been done to data and by whom? Etc.
+This isn't just about preventing mistakes or taking a while to find a find. There is a larger issue here, all to do with the concept of 
+**reproducible research**. This is the idea that when you're working on a project that involves data analysis, that analysis can be redone 
+*precisely* at some future point, allowing all results to be checked and verified.
+
+There is also an efficiency aspect, and simply not being constantly frustrated when working on a project. Below is an attempt to illustrate the point,
+showing that data management, when done well, can save time and confusion.
+
+![alt text](https://github.com/RobHarrand/life-sciences-project-organisation/blob/gh-pages/fig/00-data-management-effort.png "Data management")
+
+#### Exercise
+
+Think about issues you've encounted over the years relating to data. What were they? Issues around finding data? Knowing what the data is when you do find it? Knowing what's been done to data 
+and by whom? Etc.
 
 
 
