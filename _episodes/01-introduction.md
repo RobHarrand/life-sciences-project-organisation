@@ -64,7 +64,7 @@ working on a project that involves data analysis, that analysis can be redone *p
 There is also an efficiency aspect, and simply not being constantly frustrated when working on a project. Below is an attempt to illustrate the point,
 showing that data management, when done well, can save time and confusion.
 
-![alt text](https://github.com/RobHarrand/life-sciences-project-organisation/blob/gh-pages/fig/00-data-management-effort.png "Data management")
+![alt text](../fig/00-data-management-effort.png "Data management")
 
 #### Exercise
 

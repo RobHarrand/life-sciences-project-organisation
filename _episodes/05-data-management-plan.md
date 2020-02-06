@@ -37,9 +37,9 @@ for many funding organisations. This document should briefly answer the followin
 The [Data Management Planning Tool](https://dmptool.org/) is a free, online platform that allows data management plans to be created quickly from a range of templates.
 
 
-#### Example of a good project setup
+### Example of a good project setup
 
-![alt text](https://github.com/RobHarrand/life-sciences-project-organisation/blob/gh-pages/fig/04-data-management-plan.png "Example of a good project setup")
+![alt text](../fig/04-data-management-plan.png "Example of a good project setup")
 
 
 #### Exercise

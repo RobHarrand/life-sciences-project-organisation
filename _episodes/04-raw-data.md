@@ -32,8 +32,8 @@ analysis environments such as R or Python).
 
 Raw data,
 
-![alt text](https://github.com/RobHarrand/life-sciences-project-organisation/blob/gh-pages/fig/02-raw-data.png "Raw data")
+![alt text](../fig/02-raw-data.png "Raw data")
 
 Not raw data,
 
-![alt text](https://github.com/RobHarrand/life-sciences-project-organisation/blob/gh-pages/fig/03-raw-data.png "Not raw data")
+![alt text](../fig/03-raw-data.png "Not raw data")

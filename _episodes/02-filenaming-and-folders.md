@@ -37,7 +37,7 @@ Thinking about and typing a good filename may take an extra 30 seconds, but it m
 - Structure hierarchically. Start broad and drill-down into specific areas or projects
 - Review folder content periodically, and consider moving older files that are no longer needed into an 'archive' folder
 
-### Exercise - How could you improve the following set-up?
+#### Exercise - How could you improve the following set-up?
 
 ![alt text](../fig/01-filenaming-and-folders.png "Not a great folder")
 
