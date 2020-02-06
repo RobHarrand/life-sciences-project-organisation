@@ -1,29 +1,17 @@
 ---
 layout: lesson
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-## Introduction
-
-Data organisation ... TO DO
-
-In this lesson, you will learn:
-
-TO DO
-
-We won't be covering: 
-
-TO DO
+This lesson is focussed on how to organise your files and folders in order to maximise the efficiency and reproducibility of data analysis work.
 
 ## Getting Started
 
-TO DO
+This lesson requires no prior knowledge or data.
 
 #### Prerequisites
 
-TO DO
+This lesson requires no additional software.
 
 ## For Instructors
-
-TO DO
+If you are teaching this lesson in a workshop, please see the [Instructor notes](guide/).
+{: .prereq}
