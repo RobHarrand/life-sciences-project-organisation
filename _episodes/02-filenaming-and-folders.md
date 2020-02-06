@@ -39,5 +39,5 @@ Thinking about and typing a good filename may take an extra 30 seconds, but it m
 
 ### Exercise - How could you improve the following set-up?
 
-![alt text](fig/01-filenaming-and-folders.png "Not a great folder")
+![alt text](../fig/01-filenaming-and-folders.png "Not a great folder")
 
